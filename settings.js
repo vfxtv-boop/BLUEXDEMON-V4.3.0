@@ -20,8 +20,8 @@ global.autoReadChat = false
 global.alwaysonline = true
 global.autoswview = false
 global.public = false
-global.autoreact = false
-global.antidelete = false
+global.autoreact = true
+global.antidelete = true
 global.autotyping = false
 global.autoBio = true
 global.antiSpam = true
@@ -54,7 +54,7 @@ global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12456894.jpg"]
 global.baileysMd = true
 global.multi = false
-global.prefa = "="
+global.prefa = "&"
 global.Console = false
 global.autorespon = false
 global.copyright = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
