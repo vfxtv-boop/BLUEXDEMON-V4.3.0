@@ -43,7 +43,7 @@ global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
-global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒" 
+global.botName = "𝛭𝛯𝑈𝐺𝑈𝑌" 
 global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
@@ -54,7 +54,7 @@ global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12456894.jpg"]
 global.baileysMd = true
 global.multi = false
-global.prefa = "&"
+global.prefa = "*"
 global.Console = false
 global.autorespon = false
 global.copyright = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
